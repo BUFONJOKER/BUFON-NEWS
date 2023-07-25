@@ -12,7 +12,7 @@ Bufon News is a React app that brings you the latest news from various categorie
 ## Getting Started
 1. Clone the repository:
     ```
-    git clone https://github.com/BUFONJOKER/BUFON_NEWS.git
+    git clone https://github.com/BUFONJOKER/BUFON-NEWS.git
     ```
 2. Install dependencies:
     ```
